@@ -5,9 +5,9 @@ Muhamad Rifan Zamaludin| 1154088| github.com/MuhamadRifan
 |<?xml version="1.0" encoding="UTF-8"?> "data yg mendeskripsikan data XML" 
 <!DOCTYPE logbarang SYSTEM "logbarang.dtd"> "pendeklarasian dokumen DTD"
 <logbarang> "sintak elemen log Barang"
-	 <barang> " "
-	 	<kode>M1112</kode>  
-	 	<satuan>pc</satuan>  
+	 <barang> "adalah sebuah element "
+	 	<kode>M1112</kode>  "<kode>adalah element" "M1112 adalah value" "</kode>penutup element"
+	 	<satuan>pc</satuan>  "<satuan>adalah element" "pc adalah value" "</satuan>penutup element"
 	 	<harga cur="nmtoken">5000</harga>  
 	 <asal>   
 	 	<pt>ladyrock</pt>   
@@ -30,9 +30,9 @@ Muhamad Rifan Zamaludin| 1154088| github.com/MuhamadRifan
 		<tujuan>   
 			<pt>mitra kencana</pt>   
 			<kodewil>300</kodewil>  
-			</tujuan> 
-			</barang>  
+			</tujuan> "Penutup element tujuan"
+			</barang>  "penutup element barang"
  
-</logbarang> |
+</logbarang> "Penutup element logbarang"
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
