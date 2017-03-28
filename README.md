@@ -2,10 +2,10 @@ Nama | Npm | Link Github
 --------- | --------- | ---------
 Muhamad Rifan Zamaludin| 1154088| github.com/MuhamadRifan
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-|<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE logbarang SYSTEM "logbarang.dtd">
-<logbarang>
-	 <barang>
+|<?xml version="1.0" encoding="UTF-8"?> "data yg mendeskripsikan data XML" 
+<!DOCTYPE logbarang SYSTEM "logbarang.dtd"> "pendeklarasian dokumen DTD"
+<logbarang> "sintak elemen log Barang"
+	 <barang> " "
 	 	<kode>M1112</kode>  
 	 	<satuan>pc</satuan>  
 	 	<harga cur="nmtoken">5000</harga>  
